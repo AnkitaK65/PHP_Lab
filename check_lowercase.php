@@ -44,6 +44,7 @@ function isAllLowerCase($str) {
 </html>
 
 <!--
+Sample Output:
 Check if String is All Lowercase
 Enter a String: i am all lower case  Check
 The string 'i am all lower case' is all lowercase ✅
